@@ -2,7 +2,14 @@
 
 
 
+
 ![](farn.jpg "Mr.Phureephat Sottiratanapan")
+
+
+
+
+
+
 
 
 <h2> Biography </h2>
