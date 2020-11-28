@@ -22,10 +22,8 @@
 
 
 
-<h2> Biography </h2>
 
-
-Mr. Phureephat Sottiratanapan currently are studying in Cybersecurity at Mahanakorn University of Technology.
+. Mr. Phureephat Sottiratanapan currently Studying a master's degree in cyber security, Mahanakorn University of Technology
 
 
 
