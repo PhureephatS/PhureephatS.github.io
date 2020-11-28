@@ -47,7 +47,7 @@
 
 
 
-*   Introduction to Cybersecurity 	Issuer    Cisco Networking Academy
+*   Introduction to Cybersecurity 	 ***Issuer***    Cisco Networking Academy
 
 
 
