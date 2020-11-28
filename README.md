@@ -22,7 +22,7 @@
 
 
 
-*  Mr. Phureephat Sottiratanapan currently Studying a master's degree in cyber security, Mahanakorn University of Technology.
+*  Mr. Phureephat Sottiratanapan currently Studying a master's degree in cyber security, Mahanakorn University of Technology.He graduated with a bachelor's degree from Phranakhon Rajabhat University in computer science.
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-## Certificate
+# Certificate
 
 
 
 
-*   Introduction to Cybersecurity 	##  Issuer    Cisco Networking Academy
+*   Introduction to Cybersecurity 	Issuer    Cisco Networking Academy
 
 
 
