@@ -30,7 +30,7 @@
 
 
 
-*   Mr. Phureephat Sottiratanapan Used to serve at Buengkum District Office From 2010 - 2020.
+*   Mr. Phureephat Sottiratanapan Currently working at SCP System Co., Ltd. and previously served in BuengKum District Office From 2010 - 2020.
 
 
 
