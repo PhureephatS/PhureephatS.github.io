@@ -1,6 +1,6 @@
 ## Cookie Expire Test Case
 
-***Preconditions***
+***Preconditions:***
 Set cookie 30 minutes.
 
 ***Input:-***
